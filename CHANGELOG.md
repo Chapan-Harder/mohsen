@@ -2,9 +2,13 @@
 
 ## [Unreleased]
 
-- 🎉 feat: optimized everything and single page generated
-- 🎉 feat: page being responsive in phone size
-- 🎉 feat: single page designed
+## [1.0.0] - 2023-01-03
+
+### Added
+
+- optimized everything and single page(SSG) generated
+- page is responsive in smaller sizes
+- single page designed
 
 <!-- ## [0.0.2] - 2022-12-07
 
@@ -32,6 +36,5 @@
 [semantic versioning]: https://semver.org/spec/v2.0.0.html -->
 
 <!-- Versions -->
-<!-- [unreleased]: https://github.com/Author/Repository/compare/v0.0.2...HEAD
-[0.0.2]: https://github.com/Author/Repository/compare/v0.0.1...v0.0.2
-[0.0.1]: https://github.com/Author/Repository/releases/tag/v0.0.1 -->
+[unreleased]: https://github.com/maktoobgar/mohsen/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/maktoobgar/mohsen/releases/tag/v1.0.0
