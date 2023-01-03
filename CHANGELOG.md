@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 
+- 🎉 feat: page being responsive in phone size
 - 🎉 feat: single page designed
 
 <!-- ## [0.0.2] - 2022-12-07
