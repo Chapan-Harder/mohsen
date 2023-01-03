@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 
+- 🎉 feat: optimized everything and single page generated
 - 🎉 feat: page being responsive in phone size
 - 🎉 feat: single page designed
 

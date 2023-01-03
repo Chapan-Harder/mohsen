@@ -1,6 +1,6 @@
 import { createPortal } from "react-dom";
 
-export default function () {
+const Background = () => {
 	if (typeof window === "undefined") {
 		return <></>;
 	}
@@ -63,4 +63,6 @@ export default function () {
 			)}
 		</>
 	);
-}
+};
+
+export default Background;

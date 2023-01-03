@@ -8,7 +8,7 @@ interface SocialIconProps {
 	imageClassName?: string;
 }
 
-export default function (props: SocialIconProps) {
+const SocialIcon = (props: SocialIconProps) => {
 	return (
 		<div className="mx-12 mt-10 cursor-pointer pointer-events-auto">
 			<a href={props.href}>
@@ -31,4 +31,6 @@ export default function (props: SocialIconProps) {
 			</a>
 		</div>
 	);
-}
+};
+
+export default SocialIcon;
